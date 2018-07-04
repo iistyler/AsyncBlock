@@ -1,6 +1,6 @@
 {
   "name": "simple-async-block",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A class to make tracking multiple async blocks easier",
   "main": "AsyncBlock.js",
   "scripts": {

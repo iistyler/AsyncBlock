@@ -2,6 +2,10 @@
 This allows you to specify a block of code where you do multiple asyncronous calls, and then trigger a completion block when they're all finished without having to deal with a bunch of callbacks/counting when blocks complete.
 
 ## How to use
+Importing
+```
+import { AsyncBlock } from 'simple-async-block/AsyncBlock';
+```
 Making a new block
 ```
 var asyncBlock = new AsyncBlock()
