@@ -1,9 +1,10 @@
 {
-  "name": "asyncblock",
-  "version": "1.0.0",
+  "name": "simple-async-block",
+  "version": "1.0.2",
   "description": "A class to make tracking multiple async blocks easier",
-  "main": "index.js",
+  "main": "AsyncBlock.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
